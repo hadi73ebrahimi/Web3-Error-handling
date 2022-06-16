@@ -50,4 +50,5 @@
 																		return "Request limit exceeded."
 																		break;
 	  }
+	  return "unknown error"
   }
